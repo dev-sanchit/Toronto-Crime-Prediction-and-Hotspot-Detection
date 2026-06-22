@@ -170,7 +170,7 @@ Used for crime trend prediction.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Ramlakahn/Crime-prediction-and-hotspot-detection.git
+[git clone https://github.com/Ramlakahn/Crime-prediction-and-hotspot-detection.git](https://github.com/dev-sanchit/Toronto-Crime-Prediction-and-Hotspot-Detection.git)
 
 cd Crime-prediction-and-hotspot-detection
 ```
